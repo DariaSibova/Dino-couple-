@@ -213,3 +213,51 @@ body{
     border-right: 10px solid transparent;
     position: relative;
   }
+
+  .s5{
+    bottom:125px;
+    right: 45px;
+  }
+  .s6{
+    bottom:145px;
+    right: 85px;
+  }
+  .s7{
+    bottom:165px;
+    right: 125px;
+  }
+  .s8{
+    bottom:175px;
+    right: 165px;
+    transform: rotate(-20deg);
+  }
+  .s9{
+    bottom:175px;
+    right: 197px;
+    transform: rotate(-37deg);
+  }
+  .s10{
+    bottom:165px;
+    right: 218px;
+    transform: rotate(-65deg);
+  }
+  .s11{
+    bottom:145px;
+    right: 229px;
+    transform: rotate(-81deg);
+  }
+  .s12{
+    bottom:148px;
+    right: 245px;
+    transform: rotate(-26deg);
+  }
+  .s13{
+    bottom:155px;
+    right: 275px;
+    transform: rotate(-20deg);
+  }
+  .s14{
+    bottom:165px;
+    right: 305px;
+    transform: rotate(-20deg);
+  }
