@@ -83,3 +83,10 @@ body{
       width: 0;
       position: relative;
     }
+
+    .teeth1{
+      border-top: 12px solid #f1f0ea;
+      border-left: 7px solid transparent;
+      border-right: 7px solid transparent;
+      left: 27.5px;
+    }
