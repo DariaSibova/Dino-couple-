@@ -131,3 +131,15 @@ body{
     bottom: 120px;
     right: 215px;
   }
+
+  .tail{
+    width: 0;
+    height: 0;
+    border-radius: 180px solid #49b571;
+    border-top: 60px solid transparent;
+    border-bottom: 0px solid transparent;
+    position: relative;
+    bottom: 177px;
+    right: 340px;
+    transform: rotate(-3deg);
+  }
