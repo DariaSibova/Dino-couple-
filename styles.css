@@ -315,3 +315,68 @@ body{
     right:115px;
   }
   
+  .bow{
+    background-color: #ff6666;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    border-radius: 50%;
+    bottom:20px;
+    transform: rotate(-25deg);
+    z-index:2;
+  }
+  .b1{
+    height: 30px;
+    width: 30px;
+    background-color: #ff6666;
+    position: relative;
+    right: 30px;
+    bottom:5px;
+    border-radius: 30px 10px 5px ;
+    transform: rotate(-45deg);
+  }
+  .b2{
+    height: 30px;
+    width: 30px;
+    background-color: #ff6666;
+    position: relative;
+    left: 18px;
+    bottom:35px;
+    border-radius: 30px 10px 5px ;
+    transform: rotate(135deg);
+  }
+  .heart{
+    height:60px;
+    width: 60px;
+    background-color: #ff6666;
+    position: relative;
+    bottom:2000px;
+    left:420px;
+    transform: rotate(45deg); 
+    opacity: 0;
+    animation:love 3s infinite;
+  }
+  @keyframes love{
+    50%{
+      opacity: 1;
+    }
+  }
+  .h1{
+    height: 30px;
+    width: 60px;
+    background-color: #ff6666;
+    position: relative;
+    bottom:29px;
+    border-radius: 30px 30px 0 0;
+  }
+  .h2{
+    height: 60px;
+    width: 30px;
+    background-color: #ff6666;
+    position: relative;
+    bottom:30px;
+    right:29px;
+    border-radius: 30px 0px 0px 30px; 
+  }
+
+
