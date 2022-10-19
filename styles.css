@@ -151,3 +151,20 @@ body{
     position: relative;
   }
   
+
+  .leg1{
+    bottom:180px;
+    right: 180px; 
+  }
+  .leg2{
+    bottom:235px;
+    right: 130px;
+  }
+  .leg3{
+    bottom:290px;
+    right: 80px;
+  }
+  .leg4{
+    bottom:345px;
+    right: 30px;
+  }
