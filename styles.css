@@ -180,7 +180,7 @@ body{
   .s1,.s2,.s3,.s4{
     height: 0;
     width: 0;
-    border-right: 20px solid #3380df;
+    border-right: 20px solid #33804f;
     border-bottom: 10px solid transparent;
     border-top: 10px solid transparent;
     transform: rotate(7deg);
@@ -208,7 +208,7 @@ body{
   .s5,.s6,.s7,.s8,.s9,.s10,.s11,.s12,.s13,.s14{
     height: 0;
     width: 0;
-    border-bottom: 20px solid #3380df;
+    border-bottom: 20px solid #33804f;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
     position: relative;
@@ -260,4 +260,20 @@ body{
     bottom:165px;
     right: 305px;
     transform: rotate(-20deg);
+  }
+
+  .spots{
+    position: relative;
+    bottom: 700px;
+  }
+
+  .spl{
+    background-color: #33804f;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 115px;
+    right: 85px;
+    transform: rotate(-10deg);
   }
