@@ -203,3 +203,13 @@ body{
     bottom:120px;
     right: 29px;
   }
+
+
+  .s5,.s6,.s7,.s8,.s9,.s10,.s11,.s12,.s13,.s14{
+    height: 0;
+    width: 0;
+    border-bottom: 20px solid #3380df;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    position: relative;
+  }
