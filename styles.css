@@ -168,3 +168,10 @@ body{
     bottom:345px;
     right: 30px;
   }
+
+
+  .scales{
+    position: relative;
+    bottom: 520px;
+    z-index: -1;
+  }
