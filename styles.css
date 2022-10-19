@@ -186,3 +186,20 @@ body{
     transform: rotate(7deg);
     position: relative;
   }
+  .s1{
+      
+    bottom:180px;
+    right: 21px;
+  }
+  .s2{
+    bottom:160px;
+    right: 24px;
+  }
+  .s3{
+    bottom:140px;
+    right: 27px;
+  }
+  .s4{
+    bottom:120px;
+    right: 29px;
+  }
