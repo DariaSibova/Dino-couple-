@@ -143,3 +143,11 @@ body{
     right: 340px;
     transform: rotate(-3deg);
   }
+
+  .leg1,.leg2,.leg3,.leg4{
+    background-color: #49b571;
+    height: 55px;
+    width: 37px;
+    position: relative;
+  }
+  
