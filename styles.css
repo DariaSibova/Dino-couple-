@@ -67,3 +67,13 @@ body{
       top: 15px;
       left: 55px;
     }
+
+    .mouth{
+      background-color: #f1f0ea;
+      height: 3px;
+      width: 40px;
+      position: relative;
+      top: 2px;
+      left: 69px;
+      transform: rotate(-10deg);
+    }
