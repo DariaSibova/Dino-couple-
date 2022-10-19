@@ -123,3 +123,14 @@ body{
       left: 8px;
       top: 4px;
     }
+
+    .neck{
+      background-color: #49b571;
+      height: 200px;
+      width: 50px;
+      border-radius: 20px;
+      position: relative;
+      bottom: 78px;
+      right: 10px;
+      transform: rotate(4deg);
+    }
