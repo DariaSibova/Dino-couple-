@@ -3,6 +3,7 @@ body{
     padding: 0;
     margin: 0;
   }
+
   .mycanvas{
     background-color: #00004d;
     position: absolute;
@@ -15,4 +16,13 @@ body{
   top: 0;
   bottom: 0;
   transform: scale(0.4);
+  }
+  
+  .dino{
+    position: relative;
+    top: 250px;
+    left: 50px;
+    transform: rotate(15deg);
+    animation: hug 3s infinite;
+    transform-origin: left;
   }
