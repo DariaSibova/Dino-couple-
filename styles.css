@@ -175,3 +175,14 @@ body{
     bottom: 520px;
     z-index: -1;
   }
+
+
+  .s1,.s2,.s3,.s4{
+    height: 0;
+    width: 0;
+    border-right: 20px solid #3380df;
+    border-bottom: 10px solid transparent;
+    border-top: 10px solid transparent;
+    transform: rotate(7deg);
+    position: relative;
+  }
